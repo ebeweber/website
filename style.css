@@ -1,0 +1,47 @@
+html {
+	background: #2971A7 url('matthew.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	padding: 0px;
+	margin-top: 0px;
+	width: 100%;
+}
+
+.about-box {
+	width: 100%;
+	margin: 0px 20px;
+	bottom: 35px;
+	opacity: .5;
+	position: fixed;
+	background-color: white;
+	padding: 45px;
+}
+
+h1 {
+	color: black;
+	font: 60px/60px 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif;
+	margin: 0px 0px 10px 0px;
+	padding: 0;
+}
+
+p {
+	font: 25px/30px 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif;
+	margin: 0px 0px 20px 20px;
+	padding: 0;
+	text-indent: -20px;
+}
+
+a {
+	padding: 0px 10px;
+	color: black;
+	text-decoration: none;
+}	
+
+a:hover {
+	text-decoration: underline;
+}
